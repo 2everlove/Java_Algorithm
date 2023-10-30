@@ -1,8 +1,10 @@
 # Java_Algorithm
  【Java】Algorithm_Practice
-누적합
-구현
-그래프이론
+<hr/>
+
+*누적합
+*구현
+*그래프이론
 DFS
 BFS
 트리순회
