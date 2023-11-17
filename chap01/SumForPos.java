@@ -23,5 +23,4 @@ public class SumForPos {
 			System.out.println(e.getStackTrace());
 		}
 	}
-
 }
